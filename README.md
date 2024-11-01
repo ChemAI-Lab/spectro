@@ -1,6 +1,5 @@
 
-# spectro
-Spectro, a multi-modal approach for molecule elucidation
+# Spectro, a multi-modal approach for molecule elucidation
 
 [comment]:![Spectro](media/main_diagram.png)
 <div align="center">
